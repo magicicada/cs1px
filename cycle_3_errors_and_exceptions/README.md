@@ -1,4 +1,4 @@
-#Cycle 3 - Errors and Exceptions
+# Cycle 3 - Errors and Exceptions
 
 Cycle 3 is about practicing different styles of dealing with errors and exceptions, and reminding ourselves about reading files (which you learned in CS1CT or similar).
 
