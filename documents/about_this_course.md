@@ -1,4 +1,5 @@
-# Welcome to CS1PX!  This document should let you know generally what to expect from the course and how things will work.  
+# Welcome to CS1PX!  
+This document should let you know generally what to expect from the course and how things will work.  
 
 
 ## What I want you to learn:
