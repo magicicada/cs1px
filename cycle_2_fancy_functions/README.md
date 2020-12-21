@@ -9,4 +9,9 @@ Todo for this cycle:
   - (Only if you feel it will help you) watch extra other explanations of recursion
 - Work on lab exercises
 - Discuss progress on lab at tutorial group
-- Quiz on Jnauary 29th
+- Quiz on January 29th
+
+
+A few extra videos on recursion:
+- [Craig Kaplan explaining recursion using a 'Parable of the clones' on youtube](https://www.youtube.com/watch?v=Al15GtRxmRE)
+- [A computerphile video on recursion on youtube](https://www.youtube.com/watch?v=Mv9NEXX1VHc) Though be careful - the code examples here are not in Python!
