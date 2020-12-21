@@ -45,4 +45,5 @@ applyfunondict(a, myfun)
 Should give:
 `{'apple': 36, 'banana': 4, 'hello': 25, 'world': 16} `
  
-
+### Task 3 - author and attempt peerwise questions
+You may find this a little harder this week - consider authoring a question about tracing or understanding code, or identifying base case/recursive case
