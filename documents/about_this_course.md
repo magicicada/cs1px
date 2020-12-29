@@ -22,7 +22,8 @@ I also want you to be excited about computing science, and have a chance to hear
 ### Lectures/Recordings:
 I will use Jupyter notebooks for most of the teaching so that I can interleave text and code.  Where applicable, I will provide *two* copies of the notebooks:
 1. One missing code that I write during the recorded lecture, and with any blanks that I want you to work through
-2. One with the code I talk through in the recordings but that may still have blanks for some bits I want you to try
+2. One with the code I talk through in the recordings 
+Sometimes when I don't write code during the recordings, there will only be one copy.
 
 ### Labs/tutorials:
 Your tutorial groups will give you a chance to discuss your work on your weekly labs.  You can ask for help, or talk about what you've managed to do.  As with CS1CT, you will have demonstrator who will work with you in a small group and a tutor who will oversee several of these small groups.  
