@@ -15,7 +15,7 @@ Overall, you should gain skill and confidence in your programming.  There are a 
 
 I will try to design the lectures, labs, and assessments around these ideas.
 
-I also want you to be excited about computing science, and have a chance to hear about some of the things that people work on in academia and industry.  I will try to have guest speakers every so often at live online sessions to talk to us about their computing workresearch - if there's a field you'd like to hear from you are welcome to let me know and I'll try to find someone.  
+I also want you to be excited about computing science, and have a chance to hear about some of the things that people work on in academia and industry.  I will try to have guest speakers every so often at live online sessions to talk to us about their computing work or research - if there's a field you'd like to hear from you are welcome to let me know and I'll try to find someone.  
 
 ## How it will work:
 
