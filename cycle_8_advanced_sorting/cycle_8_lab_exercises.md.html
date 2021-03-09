@@ -1,0 +1,54 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>cycle_8_lab_exercises.md</title><style></style></head><body id="preview">
+<h1 class="code-line" data-line-start=0 data-line-end=1><a id="Cycle_8__Lab_Exercises_0"></a>Cycle 8 - Lab Exercises</h1>
+<h2 class="code-line" data-line-start=1 data-line-end=2><a id="Sorting_with_a_data_in_a_custom_structure_1"></a>Sorting with a data in a custom structure</h2>
+<p class="has-line-data" data-line-start="3" data-line-end="4">This week we’ll be working on a modified version of an exam question from last year.</p>
+<p class="has-line-data" data-line-start="5" data-line-end="6">The game of poker is played with a standard 52 card deck. This is a collection of 52 playing cards which has:</p>
+<ul>
+<li class="has-line-data" data-line-start="6" data-line-end="7">four suits: hearts ♥, diamonds ♦, clubs ♣ and spades ♠</li>
+<li class="has-line-data" data-line-start="7" data-line-end="10">thirteen face values: 2,3,4,5,6,7,8,9,10,J (Jack), Q (Queen), K (King), (A) Ace<br>
+Every combination of suit and face value is present as a distinct card. For example, 2 of Spades (2♠) is valid card, as is Jack of Hearts (J♥) or Ace of Spades (A♠).<br>
+A hand of cards is an ordered collection of cards that is held by one player; for example the five cards 3♠ J♥ J♠ A♦ 7♦ (read Three of Spades, Jack of Hearts, Jack of Spades, Ace of Diamonds, Seven of Diamonds).</li>
+</ul>
+<h3 class="code-line" data-line-start=12 data-line-end=13><a id="Task_1_12"></a>Task 1:</h3>
+<p class="has-line-data" data-line-start="13" data-line-end="14">Describe in words a data structure to represent a single card, and then using this structure, describe a data structure to represent a hand of cards. Write down a concrete example of the data structure in Python syntax for the three card hand: 2♥ 2♠ K♣</p>
+<h3 class="code-line" data-line-start=16 data-line-end=17><a id="Task_2_16"></a>Task 2:</h3>
+<p class="has-line-data" data-line-start="17" data-line-end="18">Write a function <code>greaterThan(card1, card2)</code> that takes two cards as input, and returns True if card1 is greater than card 2 by the following rules, False otherwise:</p>
+<p class="has-line-data" data-line-start="20" data-line-end="21">The rules for the ranking of an individual card are as follows:</p>
+<ul>
+<li class="has-line-data" data-line-start="21" data-line-end="22">Cards are ranked first by face value:</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23">2 &lt; 3 &lt; 4 &lt; 5 &lt;6 &lt; 7 &lt; 8 &lt; 9 &lt; 10 &lt; Jack &lt; Queen &lt; King &lt; Ace</li>
+<li class="has-line-data" data-line-start="23" data-line-end="24">Cards which are tied for the same face value are ranked according to suits:</li>
+<li class="has-line-data" data-line-start="24" data-line-end="26">♦ Diamonds &lt; ♣ Clubs &lt; ♥ Hearts &lt; ♠ Spades<br>
+For example: 4♦ &lt; 4♥ &lt; 8♥ &lt; A♥</li>
+</ul>
+<h3 class="code-line" data-line-start=28 data-line-end=29><a id="Task_3_28"></a>Task 3:</h3>
+<p class="has-line-data" data-line-start="29" data-line-end="30">Using your <code>greaterThan</code> function, implement a sorting algorithm of your choice that can take a list of cards and sort it in ranked order.</p>
+<p class="has-line-data" data-line-start="32" data-line-end="33">For example, given the input representing the hand 2♥ Q♠ 6♣ 4♦ Q♣ the sequence should be returned in the order 2♥ 4♦ 6♣ Q♣ Q♠.</p>
+<h3 class="code-line" data-line-start=35 data-line-end=36><a id="Task_4_35"></a>Task 4:</h3>
+<p class="has-line-data" data-line-start="36" data-line-end="37">In poker, when scoring the value of a hand, multiple cards must be taken into account. For example, a pair of cards with the same face value is worth more than a pair of unmatched cards with differing face values. To start implementing such rules, three functions need to be implemented:</p>
+<ul>
+<li class="has-line-data" data-line-start="38" data-line-end="40">
+<p class="has-line-data" data-line-start="38" data-line-end="39"><code>is_consecutive(a, b)</code> must return True if a and b have consecutive face values regardless of face value and False otherwise (e.g. 2♦,3♦ is consecutive, as is J♣,Q♦ but not A♦,2♦ or 7♦,9♣ or 3♣,2♣)</p>
+</li>
+<li class="has-line-data" data-line-start="40" data-line-end="42">
+<p class="has-line-data" data-line-start="40" data-line-end="41"><code>is_matching_face(a,b)</code> must return True if a and b have the same face values but differing suits and False otherwise</p>
+</li>
+<li class="has-line-data" data-line-start="42" data-line-end="44">
+<p class="has-line-data" data-line-start="42" data-line-end="43"><code>is_matching_suit(a,b)</code> must return True if a and b have the same suits and False otherwise</p>
+</li>
+</ul>
+<p class="has-line-data" data-line-start="44" data-line-end="45">Define these three functions in Python.</p>
+<h3 class="code-line" data-line-start=47 data-line-end=48><a id="Task_5__Stretch_Task_47"></a>Task 5 - Stretch Task:</h3>
+<p class="has-line-data" data-line-start="48" data-line-end="57">Write a function <code>input_hand(n)</code> that will take a number n, and request that number of cards from the user as text input. It should return the corresponding hand using the datastructure you described in (a).<br>
+The user input will be of the form of one line per card:<br>
+facevalue suit<br>
+Your function must work where facevalue can be a word like five or King, as well as accepting a single a number/letter like A or 8. Your function must accept a suit that is a full word like hearts as well as a single letter like h or H.<br>
+Each word will be separated with a space. The input must be case insensitive. For example input_hand(3) should read the following input correctly:<br>
+five diamonds<br>
+ACE S<br>
+5 CLuBs<br>
+and return the representation of the hand 5♦ A♠ 5♣</p>
+<p class="has-line-data" data-line-start="59" data-line-end="63">You should deal with malformed input using an exception.<br>
+You may use the following dictionary:<br>
+<code>number_words = {&quot;one&quot;:1, &quot;two&quot;:2, &quot;three&quot;:3, &quot;four&quot;:4, &quot;five&quot;:5, &quot;six&quot;:6, &quot;seven&quot;:7, &quot;eight&quot;:8, &quot;nine&quot;:9, &quot;ten&quot;:10}</code></p>
+</body></html>
