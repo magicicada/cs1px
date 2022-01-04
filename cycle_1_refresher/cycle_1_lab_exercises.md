@@ -1,4 +1,4 @@
-# Cycle 1 Exercises – Python data structures, performing calculations and plotting
+# Cycle 1 Exercises – Python data structures, performing calculations
 ## Aims and objectives
 * Familiarise yourself with Jupyter notebooks if you haven’t used it in the last semester
 * Refresh Python fundamentals, such as lists, tuples, dictionaries
