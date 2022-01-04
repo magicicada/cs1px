@@ -1,6 +1,6 @@
 # Cycle 1 Exercises – Python data structures, performing calculations and plotting
 ## Aims and objectives
-* Familiarise yourself with Jupyter if you haven’t used it in the last semester
+* Familiarise yourself with Jupyter notebooks if you haven’t used it in the last semester
 * Refresh Python fundamentals, such as lists, tuples, dictionaries
 
 
@@ -9,7 +9,10 @@ These exercises involve refreshing Python data structures such as lists, and dic
 ### Task 0 – Jupyter (for those who have not used it before)
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
-To use Jupyter, please follow [this guide](https://moodle.gla.ac.uk/pluginfile.php/2538141/mod_resource/content/1/JupyterGuide2016%20%281%29.pdf) (I know it is written refering to a lab machine, please just pretend it says 'your machine'). To run Jupyter on your own machine, I suggest you install via [Anaconda](https://www.anaconda.com/) - I'll do a demo of running a notebook this way in one of our first lectures.  If you really cannot run Jupyter on your machine, it is possible to run notebooks entirely online using (for example) [Google's colab](https://colab.research.google.com) or [Cocalc](https://cocalc.com/)
+
+We can use Jupyter notebooks on the lab machines or on the virtual GlasgowAnywhere machines.
+To use Jupyter, please follow [this guide](https://moodle.gla.ac.uk/pluginfile.php/2538141/mod_resource/content/1/JupyterGuide2016%20%281%29.pdf) (I know it is written refering to a lab machine, please just pretend it says 'your machine'). To run Jupyter on your own machine, I suggest you install via [Anaconda](https://www.anaconda.com/) - I'll do a demo of running a notebook this way in one of our first lectures.  
+It is possible to run notebooks entirely online using on non-university resources via (for example) [Google's colab](https://colab.research.google.com) or [Cocalc](https://cocalc.com/)
 
 
 ### Task 1 – Review your notes from CS1CT or the online text
@@ -59,7 +62,3 @@ Output: {('b', 3), ('b', 2)}
 Input: {'a': 1, 'b': 3}, {'a': 1, 'b': 3}
 Output: an empty dictionary, or None
 ```
-
-
-### Task 5 – Generate and try out some Peerwise questions 
-Please do this if you can - it will help you and your classmates learn.  It's good to aim for authoring 2-3 questions per week (you are of course welcome to do more!).  If you author a really good question I may use it on this week's quiz.
