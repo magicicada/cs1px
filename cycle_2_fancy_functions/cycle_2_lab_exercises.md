@@ -45,5 +45,17 @@ applyfunondict(a, myfun)
 Should give:
 `{'apple': 36, 'banana': 4, 'hello': 25, 'world': 16} `
  
-### Task 3 - author and attempt peerwise questions
-You may find this a little harder this week - consider authoring a question about tracing or understanding code, or identifying base case/recursive case
+### Task 3 - Challenge task
+Let's combine recursion and higher-order functions to do something a little more challenging.  
+
+Write the following higher-order function in Python:
+
+-	`recursive_apply_fun_on_dict(a, myfun)`: Write a function that applies a function on the values of a dictionary (e.g., calculates power of each value) if the values are integers, but if the values of the dictionary are themselves dictionaries then it applies the function on the values of that dictionary recursively.  So, for example: 
+
+```
+a = {'apple': 6, 'banana': 2, 'hello': 5, 'world': 4, {'orange': 10, {'cat': 6}}} 
+applyfunondict(a, myfun)
+```
+
+Should give:
+`{'apple': 36, 'banana': 4, 'hello': 25, 'world': 16, {'orange': 100, {'cat': 36}}} `
