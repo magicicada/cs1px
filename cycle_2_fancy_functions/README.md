@@ -14,5 +14,7 @@ Todo for this cycle:
 
 A few extra videos on recursion:
 
-Craig Kaplan explaining recursion using a 'Parable of the clones' on youtube
-A computerphile video on recursion on youtube Though be careful - the code examples here are not in Python!
+A few extra videos on recursion:
+- [Craig Kaplan explaining recursion using a 'Parable of the clones' on youtube](https://www.youtube.com/watch?v=Al15GtRxmRE)
+- [A computerphile video on recursion on youtube](https://www.youtube.com/watch?v=Mv9NEXX1VHc) Though be careful - the code examples here are not in Python!
+
