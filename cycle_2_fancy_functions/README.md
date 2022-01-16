@@ -11,9 +11,6 @@ Todo for this cycle:
 - Discuss progress on lab week of January 24
 - Quiz online week of January 24
 
-
-A few extra videos on recursion:
-
 A few extra videos on recursion:
 - [Craig Kaplan explaining recursion using a 'Parable of the clones' on youtube](https://www.youtube.com/watch?v=Al15GtRxmRE)
 - [A computerphile video on recursion on youtube](https://www.youtube.com/watch?v=Mv9NEXX1VHc) Though be careful - the code examples here are not in Python!
