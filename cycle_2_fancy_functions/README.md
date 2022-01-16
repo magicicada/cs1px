@@ -5,11 +5,13 @@ These two topics are ones that students often find challenging at first, so be p
 
 Todo for this cycle:
 
-Watch recorded videos for Cycle 2
-(Only if you feel it will help you) watch extra other explanations of recursion
-Work on lab exercises
-Discuss progress on lab week of January 24
-Quiz online week of January 24
+- Watch recorded videos for Cycle 2
+   -(Only if you feel it will help you) watch extra other explanations of recursion
+- Work on lab exercises
+- Discuss progress on lab week of January 24
+- Quiz online week of January 24
+
+
 A few extra videos on recursion:
 
 Craig Kaplan explaining recursion using a 'Parable of the clones' on youtube
