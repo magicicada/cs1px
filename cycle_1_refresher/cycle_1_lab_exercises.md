@@ -57,7 +57,7 @@ Output: False
 ```
 
 Input: {'a': 1, 'b': 3}, {'a': 1, 'b': 2}
-Output: {('b', 3), ('b', 2)}
+Output: [('b', 3), ('b', 2)]
 
 Input: {'a': 1, 'b': 3}, {'a': 1, 'b': 3}
 Output: an empty dictionary, or None
