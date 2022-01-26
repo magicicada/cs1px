@@ -7,10 +7,8 @@
 
 
 ## This week’s exercises 
-This week you’ll be building the biggest piece of code we’ve worked on yet - a birthday book that reads information from a file, and, if you have time to work on the last task, lets us retrieve information from the command line.  You will probably want to use IDLE or another python interpreter to work on the tasks this week.  
+This week you’ll be building the biggest piece of code we’ve worked on yet - a birthday book that reads information from a file, and, if you have time to work on the last task, lets us retrieve information from the command line.  
 
-
-Resources: Chapters 13 and 19 of How to Think Like a Computing Scientist contain information on files and exceptions, and you working on file reading in CS1CT.  
  
 ### Task 1 - Data structure and processing
 The idea of this exercise is to store people’s birthdays and produce reminders of birthdays that are coming up. 

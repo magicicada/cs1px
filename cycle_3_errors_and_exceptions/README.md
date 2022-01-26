@@ -7,5 +7,5 @@ In Cycle 3 we will also be practicing writing a larger piece of code that combin
 Todo for this cycle:
 - watch recorded videos on errors and exceptions
 - work on lab exercises
-- devise a couple Peerwise questions
-- quiz on 5th February
+- do quiz on Moodle
+
