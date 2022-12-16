@@ -20,8 +20,8 @@ I also want you to be excited about computing science, and have a chance to hear
 
 ## How it will work:
 
-### Lectures/Recordings:
-I (Jess) will use Jupyter notebooks for most of the teaching so that I can interleave text and code.  It is important that you learn how to open and run Jupyter notebooks - I will show you how to do this in lecture. 
+### Lectures:
+I (Jess) will use Jupyter notebooks for most of the teaching so that I can interleave text and code.  It is important that you learn how to open and run Jupyter notebooks - I will show you how to do this in lecture.   Blair may also soemtimes use more conventional presentation tools.  
 
 ### Labs/tutorials:
 Your tutorial groups will give you a chance to discuss your work on your weekly labs.  You can ask for help, or talk about what you've managed to do.  As with CS1CT, you will have demonstrator who will work with you in a small group and a tutor who will oversee several of these small groups.  
@@ -34,14 +34,13 @@ Most weeks we will have short online quizzes to assess your knowledge of the pre
 You will work on an assessed assignment that is kind of like a small project.  This will be a piece of code that you should write and document yourself, and that you will hand in for grading.  Details will follow closer to the time, but to give you a general idea of what will be expected:  I will ask you to find a dataset that is publicly available somewhere, and write code to store and process this dataset, including some sort of simple analysis and visualisation.  I will give examples of what I am looking for later in the course, and will provide a clear list of the marking criteria so that you know what we will be looking for.  
 
 ### End-of-course Exam:
-We will have an online end-of-course exam in the spring.  I will provide a revision checklist and an outline of the sorts of questions you should expect nearer the time.  
+We will have an end-of-course exam in the spring.  I will provide a revision checklist and an outline of the sorts of questions you should expect nearer the time.  
 
 
 ## Tools we will use:
 
 I am planning to use a number of tools throughout this semester, including:
-- Jupyter notebooks: (I run these via Anaconda, but you are welcome to use any method you like.  I will link a guide to using these in the first week.  I will also usually try to include Binder links for the notebooks so you can run them online if you like.)
-- Recorded videos: these will mostly be me going through the notebooks I prepare
+- Jupyter notebooks: (I run these via Anaconda, but you are welcome to use any method you like.  I will link a guide to using these in the first week.  
 - slido: this will let you anonymously ask questions or make requests
 - Moodle: all course information will be available on the Moodle page, some is also available on GitHub
 - GitHub: I'll be maintaining a repo with notebooks and other materials for the course, but use this only if it is convenient for you.  Moodle will be the authoritative source.
