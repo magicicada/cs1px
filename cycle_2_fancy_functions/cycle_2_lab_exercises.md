@@ -53,9 +53,9 @@ Write the following higher-order function in Python:
 -	`recursive_apply_fun_on_dict(a, myfun)`: Write a function that applies a function on the values of a dictionary (e.g., calculates power of each value) if the values are integers, but if the values of the dictionary are themselves dictionaries then it applies the function on the values of that dictionary recursively.  So, for example: 
 
 ```
-a = {'apple': 6, 'banana': 2, 'hello': 5, 'world': 4, {'orange': 10, {'cat': 6}}} 
+a = {'apple': 6, 'banana': 2, 'hello': 5, 'world': 4, 'suzanne': {'orange': 10, 'gerald': {'cat': 6}}} 
 applyfunondict(a, myfun)
 ```
 
 Should give:
-`{'apple': 36, 'banana': 4, 'hello': 25, 'world': 16, {'orange': 100, {'cat': 36}}} `
+`{'apple': 36, 'banana': 4, 'hello': 25, 'world': 16, 'suzanne': {'orange': 100, 'gerald': {'cat': 36}}} `
