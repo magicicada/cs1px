@@ -40,8 +40,7 @@ We will have an end-of-course exam in the spring.  I will provide a revision che
 ## Tools we will use:
 
 I am planning to use a number of tools throughout this semester, including:
-- Jupyter notebooks: (I run these via Anaconda, but you are welcome to use any method you like.  I will link a guide to using these in the first week.  
-- slido: this will let you anonymously ask questions or make requests
+- Jupyter notebooks: (I run these via Anaconda of on Google's colab, but you are welcome to use any method you like.) 
 - Moodle: all course information will be available on the Moodle page, some is also available on GitHub
 - GitHub: I'll be maintaining a repo with notebooks and other materials for the course, but use this only if it is convenient for you.  Moodle will be the authoritative source.
 - more may be added as we go 
@@ -66,5 +65,5 @@ On Wednesday at noon:
 On Friday at noon:
 - we will have a lecture session where we talk about new material.  
 
-Near the end of the course when you are spending most of your time working on your assessed assignment and revision, this schedule will change as we won't have as much new material.  
+Blair Archibald (who teaches the second half of the course) follows a similar schedule. 
 
