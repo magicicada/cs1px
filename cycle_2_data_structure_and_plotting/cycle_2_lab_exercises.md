@@ -1,4 +1,4 @@
-# Cycle 4 Lab Exercises - Functions for Data Structures and Plotting
+# Cycle 2 Lab Exercises - Functions for Data Structures and Plotting
 
 ### Objectives:
 
@@ -19,7 +19,7 @@ Price/unit,Production cost/unit,Units produced nationally in month, month,region
 3. Write a function to read the information in poturnip.csv and store the information in your data structure.  
 
 ### Task 1: Breaking your own code
-Now a bit of fun - try to break your file reading function!  Add a line to `poturnip.csv` that causes your reading function to throw a runtime exception.  Now, add some error-checking or an exception to your function that deals with it.
+Now a bit of fun - try to break your file reading function!  Add a line to `poturnip.csv` that causes your reading function to throw a runtime exception.  In future weeks you'll learn more about how to deal with such errors gracefully.  
 
 ### Task 2 - Writing functions to manipulate your data structure
 
