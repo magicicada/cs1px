@@ -24,17 +24,17 @@ I also want you to be excited about computing science, and have a chance to hear
 I (Jess) will use Jupyter notebooks for most of the teaching so that I can interleave text and code.  It is important that you learn how to open and run Jupyter notebooks - I will show you how to do this in lecture.   Blair may also soemtimes use more conventional presentation tools.  
 
 ### Labs/tutorials:
-Your tutorial groups will give you a chance to discuss your work on your weekly labs.  You can ask for help, or talk about what you've managed to do.  As with CS1CT, you will have demonstrator who will work with you in a small group and a tutor who will oversee several of these small groups.  
+Your tutorial groups will give you a chance to discuss your work on your weekly labs.  You can ask for help, or talk about what you've managed to do.  As with CS1CT, you will have demonstrator who will work with you in a small group and a tutor who will oversee several of these small groups. You should attend labs even if you have completed the lab material - but you can get the tutor to check your solution shortly after you arrive and then you need not stay if you don't want to.  We are obligated to take attendance at 1PX labs.  
 
 ### Quizzes:
-Most weeks we will have short online quizzes to assess your knowledge of the previous cycle's material.  These will be run on Moodle, and will be available for the whole week of the lab sessions associated with the content.  
+Most weeks we will have short online quizzes to assess your knowledge of the previous cycle's material.  These will be run on Moodle, and will be available for a week.
 
 
 ### Assessed assignment:
-You will work on an assessed assignment that is kind of like a small project.  This will be a piece of code that you should write and document yourself, and that you will hand in for grading.  Details will follow closer to the time, but to give you a general idea of what will be expected:  I will ask you to find a dataset that is publicly available somewhere, and write code to store and process this dataset, including some sort of simple analysis and visualisation.  I will give examples of what I am looking for later in the course, and will provide a clear list of the marking criteria so that you know what we will be looking for.  
+You will work on an assessed assignment that is kind of like a small project.  This will be a piece of code that you should write and document yourself, and that you will hand in for grading.  Details will follow closer to the time. 
 
 ### End-of-course Exam:
-We will have an end-of-course exam in the spring.  I will provide a revision checklist and an outline of the sorts of questions you should expect nearer the time.  
+We will have an end-of-course exam in the spring.  We will provide a revision checklist and an outline of the sorts of questions you should expect nearer the time.  
 
 
 ## Tools we will use:
@@ -49,21 +49,5 @@ For your labs and learning I suggest that you use Jupyter notebooks, either on a
 
 
 ## The weekly schedule:
-We have scheduled lecture sessions for an hour at noon on Wednesday and Friday, and you should have a lab slot assigned to you on Monday, Tuesday, or Wednesday.  The exact schedule of what happens when will vary a little week-to-week, but in general the plan is:
-
-By Wednesday afternoon: 
-- For the first half of the course I will release any materials about new material for the cycle including the lecture notes and lab (where possible I may release these earlier, but don't feel pressure to engage with them in the previous cycle if you're not ready)
-
-You should work through the material and then work on your weekly lab sometime between when they are released and when your next lab session is. 
-
-Monday to Wednesday morning:
-- You will discuss your progress on your weekly lab assignment at your lab/tutorial sessions.  Quizzes on this material will be open all week.  
-
-On Wednesday at noon:
-- we will have a lecture session where we talk about questions that have come up over the cycle, or run through examples of things people found difficult in the labs.  We may sometimes discuss new material, depending on how the course is proceding. 
-
-On Friday at noon:
-- we will have a lecture session where we talk about new material.  
-
-Blair Archibald (who teaches the second half of the course) follows a similar schedule. 
+We have scheduled lecture sessions for two hours at noon on Wednesday, and you should have a lab slot assigned to you on Monday, or Tuesday. 
 
